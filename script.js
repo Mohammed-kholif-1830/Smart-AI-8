@@ -1,4 +1,4 @@
-const apiKey = "";
+const apiKey = "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";
 
 async function askAI() {
   const question = document.getElementById("question").value.trim();
